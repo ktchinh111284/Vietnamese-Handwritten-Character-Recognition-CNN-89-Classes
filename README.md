@@ -4,7 +4,7 @@ Handwritten recognition (HR) is an active research area in artificial intelligen
 
 Handwritten Vietnamese character recognition systems face a number of challenges due to the changing style of human handwriting and the lack of a standard database. In this thesis, a deep learning architecture is effectively applied to recognize Vietnamese uppercase handwritten characters. A Convolutional Neural Network (CNN) is a special kind of transitional multilayer that is trained in supervised mode.
 
-The CNN model trained and tested our database that contains 17.800 ietnamese uppercase handwritten characters. In this thesis, optimization methods implemented to increase the performance of CNN. Common machine learning methods usually apply a combination of feature extractor and trainable classifier. The use of CNN leads to significant improvements across different methods that used other machine learning classification algorithms. The CNN model is proposed with results 97% on testing data.
+The CNN model trained and tested our database that contains 17.800 Vietnamese uppercase handwritten characters. In this thesis, optimization methods implemented to increase the performance of CNN. Common machine learning methods usually apply a combination of feature extractor and trainable classifier. The use of CNN leads to significant improvements across different methods that used other machine learning classification algorithms. The CNN model is proposed with results 97% on testing data.
 
 Open file with Colab: https://colab.research.google.com/drive/1n1qScTQ0ucYemPDao1xXjy9_H5PEGEcN?authuser=1#scrollTo=2ed6WiWK2_We
 
